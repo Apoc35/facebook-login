@@ -7,7 +7,7 @@ This project runs on a simple HTML, CSS and JavaScript stack.
 Just clone the project and run the index.html file.
 
 You can see a sample of the project running in this link:
-http://facebook-login-alex.surge.sh/
+https://social-login.surge.sh/
 
 
 ## Built With
